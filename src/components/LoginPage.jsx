@@ -39,7 +39,7 @@ const LoginPage = () => {
     <div>
       <h1>Facebook Login</h1>
       <FacebookLoginButton
-        appId="684486596946256"
+        appId="1037346667692144"
         onClick={handleLogin}
         fields="name,email,picture"
       />
